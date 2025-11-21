@@ -1,6 +1,5 @@
 
 # TripAdvise – Project Roadmap  
-A beginner-friendly task roadmap showing progress across Sprint 1, Sprint 2, and Sprint 3.
 
 ---
 
