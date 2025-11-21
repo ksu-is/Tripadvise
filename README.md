@@ -1,7 +1,68 @@
-# TripadviseTripavdise 
+# TripAdvise
 
-Trapadvise is a small Python program that helps travelers plan a trip, set a budget, and set a day-by-day spending plan. All the user will need to do is enter destinations, lodging, dates, flights/transportation, and any other activities they plan to do, along with their estimated costs. The end goal is for the program to total everything, warn the user if their plan exceeds the targeted amount, and save the trip as a file for later review. For the most part, I want the program to be simple but still practical. 
-Who would use it?
-Students, first-time travelers, and anyone who wants a quick, number-based plan before booking. This would also be useful for large groups, so information can be conveyed quickly. 
-Why it’s useful 
-Travel gets expensive fast, especially when you only think about the big costs and forget the small daily ones. A lot of people look at the flight and hotel price, but don’t add up food, transportation, shopping, and activities until it’s too late. Tripadvise helps break everything down before the trip starts. It shows the full cost and how much money you should plan to spend per day, so you’re not surprised later.
+A beginner-friendly travel budget planner created for my Application Development I course at KSU.  
+
+---
+
+## 📌 Project Overview
+
+TripAdvise is a simple tool designed to help travelers estimate the total cost of a trip.  
+The project will eventually include features for calculating transportation, lodging, food, activities, and daily spending limits.  
+
+This repository contains:
+- Project roadmap 
+- Initial planning documents
+- Future development steps
+
+---
+
+## 🗂️ Features (Planned)
+
+- [ ] User-entered travel budget categories  
+- [ ] Transportation cost calculator  
+- [ ] Lodging cost + cost-per-night breakdown  
+- [ ] Food & daily spending estimator  
+- [ ] Activity cost list  
+- [ ] Total trip cost summary  
+- [ ] Daily budget target  
+- [ ] Optional: CSV/Excel export  
+- [ ] Optional: GUI or website (future sprint idea)
+
+---
+
+## 🕒 Project Timeline
+
+### **Sprint 1 – Ideation & Setup**
+- [x] Choose project topic  
+- [x] Create GitHub repo  
+- [x] Define project purpose and simple description  
+- [x] Find a comparable reference project (for inspiration only)
+
+### **Sprint 2 – Roadmap & Requirements**
+- [x] Create full project roadmap  
+- [x] Define major and minor features  
+- [x] Create user stories  
+- [x] Outline how the Python program will work  
+- [x] Prepare early file structure for GitHub
+
+### **Sprint 3 – Initial Development**
+- [ ] Set up Python files  
+- [ ] Start building input prompts  
+- [ ] Implement basic calculations (transportation, lodging, food)  
+- [ ] Print simple total to console  
+- [ ] Update GitHub commits with progress
+
+---
+
+## 📁 File Structure (Planned)
+
+TripAdvise/
+│
+├── README.md
+├── roadmap.md
+├── /docs
+│ └── sprint_notes.md
+├── /src
+│ └── tripadvise.py
+└── /assets
+└── screenshots/
