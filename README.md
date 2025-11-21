@@ -55,14 +55,16 @@ This repository contains:
 ---
 
 ## 📁 File Structure (Planned)
-
 TripAdvise/
 │
 ├── README.md
 ├── roadmap.md
+│
 ├── /docs
 │ └── sprint_notes.md
+│
 ├── /src
 │ └── tripadvise.py
+│
 └── /assets
 └── screenshots/
