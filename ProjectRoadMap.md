@@ -28,8 +28,9 @@
 - [x] Create the “Trip Budget Calculator” basic Python script  
 - [x] Add inputs for flight, hotel, food, transportation, activities  
 - [x] Compute total trip cost  
-- [ ] Compute average cost per day  
-- [ ] Print results clearly  
+- [x] Compute average cost per day
+- [x] Add trip budget for user feedback if under or over budget
+- [x] Print results clearly  
 
 ### Improve Git/GitHub Workflow
 - [x] Make small commits (min. 6 significant commits)  
@@ -41,4 +42,4 @@
 - [x] Check off completed tasks  
 - [ ] Add new tasks as needed  
 - [ ] Mark tasks as “DONE” in this roadmap  
-- [ ] Add any new features discovered while coding  
+- [x] Add any new features discovered while coding  
