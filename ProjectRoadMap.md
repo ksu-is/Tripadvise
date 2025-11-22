@@ -25,9 +25,9 @@
 ## ✅ Sprint 2 – Start Coding & Tracking Tasks
 
 ### Build the First Working Version
-- [ ] Create the “Trip Budget Calculator” basic Python script  
-- [ ] Add inputs for flight, hotel, food, transportation, activities  
-- [ ] Compute total trip cost  
+- [x] Create the “Trip Budget Calculator” basic Python script  
+- [x] Add inputs for flight, hotel, food, transportation, activities  
+- [x] Compute total trip cost  
 - [ ] Compute average cost per day  
 - [ ] Print results clearly  
 
