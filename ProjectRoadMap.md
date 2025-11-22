@@ -10,15 +10,15 @@
 
 ### Project Idea & Research
 - [x] Write project idea description (TripAdvise – Travel Budget + Trip Planner)  
-- [x] Add at least ONE source link to a similar project (ex: https://github.com/Jswan-2005/GUI-Travel-Budget-Planner)  
+- [x] Add source link to a similar project (ex: https://github.com/Jswan-2005/GUI-Travel-Budget-Planner)  
 - [x] Look at similar projects and evaluate what they do well  
-- [x] Write notes on features you want to copy or improve  
+- [x] Write notes on features I want to copy or improve  
 
 ### Basic Code Work
 - [x] Start the very first Python file (a simple placeholder program)  
 - [x] Upload the code to GitHub  
 - [x] Make at least 2–3 commits explaining what you changed  
-- [x] Update README.md to show your project plan  
+- [x] Update README.md to show my project plan  
 
 ---
 
@@ -32,13 +32,13 @@
 - [ ] Print results clearly  
 
 ### Improve Git/GitHub Workflow
-- [ ] Make small commits (min. 6 significant commits)  
+- [x] Make small commits (min. 6 significant commits)  
 - [ ] Write meaningful commit messages  
 - [ ] Push code frequently so professor can see progress  
 - [ ] Organize files inside your repo  
 
 ### Update Roadmap During Sprint
-- [ ] Check off completed tasks  
+- [x] Check off completed tasks  
 - [ ] Add new tasks as needed  
 - [ ] Mark tasks as “DONE” in this roadmap  
 - [ ] Add any new features discovered while coding  
