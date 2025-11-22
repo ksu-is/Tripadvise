@@ -34,8 +34,8 @@
 
 ### Improve Git/GitHub Workflow
 - [x] Make small commits (min. 6 significant commits)  
-- [ ] Write meaningful commit messages  
-- [ ] Push code frequently so professor can see progress  
+- [x] Write meaningful commit messages  
+- [x] Push code frequently so professor can see progress  
 - [ ] Organize files inside your repo  
 
 ### Update Roadmap During Sprint
