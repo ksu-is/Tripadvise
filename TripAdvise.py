@@ -16,9 +16,21 @@ transport = float(input("Local transportation cost ($): "))
 # Optional: number of trip days
 days = int(input("\nHow many days is your trip? "))
 
+# Ask for an overall trip budget
+budget = float(input("What is your total trip budget ($): "))
+
 # --- Calculations ---
 total_cost = flights + hotels + food + activities + transport
 daily_average = total_cost / days if days > 0 else 0
+
+# --- Compare total cost to budget ---
+difference = budget - total_cost
+if difference > 0:
+    budget_message = f"You are ${difference:.2f} UNDER budget."
+elif difference < 0:
+    budget_message = f"You are ${-difference:.2f} OVER budget."
+else:
+    budget_message = "You hit your budget exactly!"
 
 # --- Output ---
 print("\n========= Trip Summary =========")
@@ -28,8 +40,11 @@ print(f"Food:              ${food:.2f}")
 print(f"Activities:        ${activities:.2f}")
 print(f"Transportation:    ${transport:.2f}")
 print("---------------------------------")
+print(f"Trip Budget:     ${budget:.2f}")  
 print(f"Total Trip Cost:   ${total_cost:.2f}")
 print(f"Daily Average:     ${daily_average:.2f} per day")
+print("------------------------------")       
+print(budget_message)                      
 print("=================================\n")
 
 print("Thank you for using TripAdvise!")
