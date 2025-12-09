@@ -18,15 +18,15 @@ This repository contains:
 
 ## 🗂️ Features (Planned)
 
-- [ ] User-entered travel budget categories  
-- [ ] Transportation cost calculator  
-- [ ] Lodging cost + cost-per-night breakdown  
-- [ ] Food & daily spending estimator  
-- [ ] Activity cost list  
-- [ ] Total trip cost summary  
-- [ ] Daily budget target  
-- [ ] Optional: CSV/Excel export  
-- [ ] Optional: GUI or website (future sprint idea)
+- [x] User-entered travel budget categories  
+- [x] Transportation cost calculator  
+- [x] Lodging cost + cost-per-night breakdown  
+- [x] Food & daily spending estimator  
+- [x] Activity cost list  
+- [x] Total trip cost summary  
+- [x] Daily budget target  
+- [x] Optional: CSV/Excel export  
+
 
 ---
 
@@ -46,11 +46,11 @@ This repository contains:
 - [x] Prepare early file structure for GitHub
 
 ### **Sprint 3 – Initial Development**
-- [ ] Set up Python files  
-- [ ] Start building input prompts  
-- [ ] Implement basic calculations (transportation, lodging, food)  
-- [ ] Print simple total to console  
-- [ ] Update GitHub commits with progress
+- [x] Set up Python files  
+- [x] Start building input prompts  
+- [x] Implement basic calculations (transportation, lodging, food)  
+- [x] Print simple total to console  
+- [x] Update GitHub commits with progress
 
 ---
 
